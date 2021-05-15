@@ -1,0 +1,89 @@
+#food {
+    margin-top: -220px;
+    margin-left: 200px;
+    height: 1000px;
+}
+.menu {
+    position: fixed;
+    background: cyan;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#brownies {
+    width: 200px;
+    height:230px;
+    margin-right: 20px;
+}
+
+#wlcme {
+    height: 100%;
+    width: 100%;
+}
+
+#gridtxt {
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 100px;
+}
+
+#burger {
+    height: 230px;
+}
+
+#cake {
+    height: 230px;
+    margin-left: 20px;
+}
+
+#cream {
+    height: 230px;
+    margin-left: 20px;
+}
+
+#hot {
+    height: 230px;
+}
+
+#muffins {
+    height: 230px;
+}
+
+#noodles {
+    height: 230px;
+    margin-left: 20px;
+}
+
+#pie {
+    height: 230px;
+    margin-left: 20px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#grid {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
